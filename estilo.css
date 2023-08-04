@@ -1,0 +1,49 @@
+body {
+    background-color: 	beige;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#listLinkFirstId {
+    margin-left: 42%;
+}
+
+li .linkFirst {
+    color: blue;
+}
+
+table {
+    text-align: center;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+thead tr th {
+    border-style: solid;
+}
+
+table tbody tr td.oddTable {
+    background-color: burlywood;
+}
+
+table tbody tr td.evenTable {
+    background-color: beige;
+}
+
+.socialsButton {
+    width: 2cm;
+}
+
+ul.socialsLinks {
+    text-align: center;
+}
+
+form#contacto {
+    text-align: center;
+}
